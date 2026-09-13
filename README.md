@@ -146,9 +146,6 @@ No human participants were involved. The study used a publicly available, anonym
 
 ---
 
-### Licence
-
-This project is submitted as part of the MSc Computing programme at Sheffield Hallam University.
 
 ---
 
